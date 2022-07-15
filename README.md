@@ -9,3 +9,7 @@
 - [#] POST - /User - Criação de um novo Usuario
 - [#] PATCH - /User - Atualização cadastral de um Usuario
 - [#] DELETE - /User - Remover cadastro de um Usuario
+
+### Script do Banco de Dados
+
+- [#] /script.sql
